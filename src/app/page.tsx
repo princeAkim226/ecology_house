@@ -53,10 +53,10 @@ export default function Home() {
   className="px-6 sm:px-8 py-3 sm:py-4 bg-green-700 text-white font-bold rounded-lg shadow-md hover:bg-green-600 transition"
   onClick={() => window.open("/ecology_house.apk", "_blank")}
 >
-  Télécharger l'application
+  Télécharger l&apos;application
 </button>
 
-          Télécharger l'application
+          
         
       </section>
 
@@ -140,7 +140,7 @@ export default function Home() {
           Contactez-nous
         </h2>
         <p className="text-sm sm:text-base mb-4">
-          Nous sommes là pour répondre à toutes vos questions. N'hésitez pas à nous contacter !
+          Nous sommes là pour répondre à toutes vos questions. N&apos;hésitez pas à nous contacter !
         </p>
         <form className="max-w-lg mx-auto space-y-4">
           <input
